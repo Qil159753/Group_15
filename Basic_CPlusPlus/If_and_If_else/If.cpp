@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//basic command cd as change directory like dc ./e /.... to go that specific file
 int main (){
     int A = 0;//variable declaration A as integer and 0 value
     cout<<"Please enter a number to A: "<< endl;//Show Please enter a number to A to output
